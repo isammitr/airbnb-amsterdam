@@ -53,7 +53,10 @@ From the `statsmodels.api` OLS model output table, the columns with positive coe
 - instant_bookable: if the User is able to book the property instantly, the price will be higher.
 
 ### Q2. Find the Peak Season and Off Season for the year 2020
-It is evident from the figure that `April to July` is the `peak season` with average price ranging from  `$170` to `$174` and `January to March` are comparatively `lower` with average price ranging from  `$163 to $165`. The [Tulips bloom](https://rove.me/to/amsterdam) during this period from April to June, and further the weather must be pleasant which can be reasons for the peak season. 
+
+![alt text](peakSeason.png)
+
+It is evident from the figure that `April to June` is the `peak season` with average price ranging from  `$170` to `$174` and `January to March` are comparatively `lower` with average price ranging from  `$163 to $165`. The [Tulips bloom](https://rove.me/to/amsterdam) during this period from April to June, and further the weather must be pleasant which can be reasons for the peak season. `September and October` also seem to be the peak season because of the cool weather.
 
 ### Q3. Find the Top Hosts based on User Reviews and Top Hosts' neighbourhood
 The sentiment score was calculated based on the reviews, and the top hosts (only based on user reviews) are: 
