@@ -73,6 +73,8 @@ So now you know, when and where to book in Amsterdam! :)
 
 **Disclaimer**: This is not an advertisement of any kind.
 
+**P.S.**: [Link to my Medium Post](https://medium.com/@ranadesammit/exploring-the-airbnb-amsterdam-dataset-29d6bfcf5322)
+
 ## Deploying:
 - Download the jupyter notebook and the dataset from the source, store all in the same folder and on your terminal, run: `jupyter notebook`
 - You can also download the HTML file and open it with any browser to see the jupyter notebook contents
